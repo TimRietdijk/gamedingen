@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C95747B3-8D20-9CC8-875D-D5C7276823F5}") = "gamedingen", "Assembly-CSharp.csproj", "{94B1F26C-562F-9A55-B406-9A4A0418E588}"
+EndProject
+Project("{C95747B3-8D20-9CC8-875D-D5C7276823F5}") = "gamedingen", "Assembly-CSharp-Editor.csproj", "{F496949E-AFAF-256D-235F-E9BFADA9F1E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B1F26C-562F-9A55-B406-9A4A0418E588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B1F26C-562F-9A55-B406-9A4A0418E588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B1F26C-562F-9A55-B406-9A4A0418E588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B1F26C-562F-9A55-B406-9A4A0418E588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F496949E-AFAF-256D-235F-E9BFADA9F1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F496949E-AFAF-256D-235F-E9BFADA9F1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F496949E-AFAF-256D-235F-E9BFADA9F1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F496949E-AFAF-256D-235F-E9BFADA9F1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
