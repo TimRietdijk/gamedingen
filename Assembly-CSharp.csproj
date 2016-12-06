@@ -50,8 +50,10 @@
      <Compile Include="Assets\Scripts\ItemData.cs" />
      <Compile Include="Assets\Scripts\ItemDatabase.cs" />
      <Compile Include="Assets\Scripts\ItemSlot.cs" />
+     <Compile Include="Assets\Scripts\ItemTest.cs" />
      <Compile Include="Assets\Scripts\PlayerControler.cs" />
      <Compile Include="Assets\Scripts\Tooltip.cs" />
+     <Compile Include="Assets\Scripts\showinv.cs" />
      <Compile Include="Assets\Scripts\slotscript.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\CameraFollow.cs" />

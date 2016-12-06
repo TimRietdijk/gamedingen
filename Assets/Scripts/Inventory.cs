@@ -14,8 +14,9 @@ public class Inventory : MonoBehaviour
     public int slotamount;
     public List<Item> items = new List<Item>();
     public List<GameObject> slots = new List<GameObject>();
+    public ItemTest script;
 
-    void Start()
+       void Start()
     {
         database = GetComponent<ItemDatabase>();
         //slotamount = 15;
@@ -31,9 +32,14 @@ public class Inventory : MonoBehaviour
 
         AddItem(0);
         AddItem(1);
-        AddItem(1);
-
     }
+
+    public void itemgive()
+    {
+        AddItem(0);
+        AddItem(1);
+    }
+
 
     public void AddItem(int id)
     {
@@ -63,7 +69,7 @@ public class Inventory : MonoBehaviour
                     itemObj.GetComponent<ItemData>().amount = 1;
                     itemObj.GetComponent<ItemData>().slotid = i;
                     itemObj.transform.SetParent(slots[i].transform);
-                    itemObj.transform.position = Vector2.zero;
+                    itemObj.transform.position = slots[i].transform.position;
                     itemObj.GetComponent<Image>().sprite = itemtoadd.Sprite;
                     itemObj.name = itemtoadd.Name;
 
