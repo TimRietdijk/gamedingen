@@ -45,16 +45,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CameraControler.cs" />
-     <Compile Include="Assets\Scripts\Inventory.cs" />
-     <Compile Include="Assets\Scripts\ItemData.cs" />
-     <Compile Include="Assets\Scripts\ItemDatabase.cs" />
-     <Compile Include="Assets\Scripts\ItemSlot.cs" />
-     <Compile Include="Assets\Scripts\ItemTest.cs" />
-     <Compile Include="Assets\Scripts\PlayerControler.cs" />
-     <Compile Include="Assets\Scripts\Tooltip.cs" />
-     <Compile Include="Assets\Scripts\showinv.cs" />
-     <Compile Include="Assets\Scripts\slotscript.cs" />
+     <Compile Include="Assets\Scripts\Player\CameraControler.cs" />
+     <Compile Include="Assets\Scripts\Player\Levelsystem.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerControler.cs" />
+     <Compile Include="Assets\Scripts\Skilltree\Fortitudo.cs" />
+     <Compile Include="Assets\Scripts\Skilltree\Statsloader.cs" />
+     <Compile Include="Assets\Scripts\Skilltree\showskill.cs" />
+     <Compile Include="Assets\Scripts\inventory\Inventory.cs" />
+     <Compile Include="Assets\Scripts\inventory\ItemData.cs" />
+     <Compile Include="Assets\Scripts\inventory\ItemDatabase.cs" />
+     <Compile Include="Assets\Scripts\inventory\ItemSlot.cs" />
+     <Compile Include="Assets\Scripts\inventory\ItemTest.cs" />
+     <Compile Include="Assets\Scripts\inventory\Tooltip.cs" />
+     <Compile Include="Assets\Scripts\inventory\showinv.cs" />
+     <Compile Include="Assets\Scripts\inventory\slotscript.cs" />
+     <Compile Include="Assets\Scripts\start.cs" />
+     <Compile Include="Assets\showmenu.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
