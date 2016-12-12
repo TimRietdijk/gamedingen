@@ -59,8 +59,9 @@
      <Compile Include="Assets\Scripts\inventory\Tooltip.cs" />
      <Compile Include="Assets\Scripts\inventory\showinv.cs" />
      <Compile Include="Assets\Scripts\inventory\slotscript.cs" />
-     <Compile Include="Assets\Scripts\start.cs" />
-     <Compile Include="Assets\numbers.cs" />
+     <Compile Include="Assets\Scripts\start screen\start.cs" />
+     <Compile Include="Assets\Scripts\test scripts\numbers.cs" />
+     <Compile Include="Assets\button.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\standard stuff\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
