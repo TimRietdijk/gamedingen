@@ -7,7 +7,6 @@ public class PlayerControler : MonoBehaviour {
     public GameObject Inventory;
     public GameObject Player;
     public float XP;
-    public bool facingright;
     public float FortitudoLevel = 1;
     public float PernicitasLevel = 1;
     public float IntelligentiaLevel = 1;
@@ -27,10 +26,6 @@ public class PlayerControler : MonoBehaviour {
     public float Mdefence;
     public float Speed;
     public float Gold;
-    void Start()
-    {
-        facingright = true;
-    }
 
     void Update() {
         //Movement of the player

@@ -15,7 +15,7 @@ public class Inventory : MonoBehaviour
     public GameObject ArmorSlot;
     public GameObject WaponSlot;
     public GameObject ArtifactSlot;
-
+    public Item item;
 
     public int slotamount;
     public int equipebleamount;
@@ -105,7 +105,7 @@ public class Inventory : MonoBehaviour
         {
             for (int i = 0; i < items.Count; i++)
             {
-                if (items[i].ID == -1)
+                if (items[i].ID == -1 && slots[i].GetComponent<ItemSlot>().id > 2)
                 {
                     items[i] = itemtoadd;
                     GameObject itemObj = Instantiate(inventoryItem);
