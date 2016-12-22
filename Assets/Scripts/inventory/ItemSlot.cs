@@ -6,6 +6,7 @@ using System;
 public class ItemSlot : MonoBehaviour, IDropHandler {
     public int id;
     private Inventory inv;
+    private Inventory Einv;
 
     void Start()
     {

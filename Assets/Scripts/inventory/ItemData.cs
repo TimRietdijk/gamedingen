@@ -21,7 +21,7 @@ public class ItemData : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
     {
         if (item != null)
         {
-            this.transform.SetParent(this.transform.parent.parent);
+            this.transform.SetParent(this.transform.parent.parent.parent);
             this.transform.position = eventData.position;
             GetComponent<CanvasGroup>().blocksRaycasts = false;
         }

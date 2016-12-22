@@ -8,6 +8,7 @@
             "regeneration": 20,
             "mpower": 300
         },
+        "equipable": 1,
         "description": "testing the database",
         "stack": false,
         "slug": "test-item"
@@ -21,6 +22,7 @@
             "regeneration": 300,
             "mpower": 0
         },
+        "equipable": 0,
         "description": "testing the databse 2",
         "stack": true,
         "slug": "test-item2"

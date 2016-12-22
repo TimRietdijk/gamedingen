@@ -82,6 +82,7 @@
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
+     <None Include="Assets\Resources\Sprites\Alice&apos;s art\Readme 1.txt" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
@@ -114,7 +115,7 @@
      <None Include="Assets\standard stuff\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
-     <None Include="Assets\Alice&apos;s art\Readme.txt" />
+     <None Include="Assets\Resources\Sprites\Alice&apos;s art\Readme.txt" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
      <None Include="Assets\standard stuff\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
