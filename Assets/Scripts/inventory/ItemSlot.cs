@@ -7,16 +7,24 @@ public class ItemSlot : MonoBehaviour, IDropHandler {
     public int id;
     private Inventory inv;
     public Item item;
+    public int theid;
+    public ItemData ItemData;
 
     void Start()
     {
         inv = GameObject.Find("Inventory").GetComponent<Inventory>();
     }
+    void Update()
+    {
+        theid = ItemData.slotid;
+    }
 
     public void OnDrop(PointerEventData eventData)
     {
         ItemData dropedItem = eventData.pointerDrag.GetComponent<ItemData>();
-
+        if (dropedItem.item.Equipable == 0)
+        {
+            Debug.Log("wapon");
             if (inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id == 0 || inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id > 2)
             {
                 inv.items[dropedItem.slotid] = new Item();
@@ -37,9 +45,10 @@ public class ItemSlot : MonoBehaviour, IDropHandler {
                 inv.items[dropedItem.slotid] = item.GetComponent<ItemData>().item;
                 inv.items[id] = dropedItem.item;
             }
-
-        
-
+        }
+        else if (dropedItem.item.Equipable == 1)
+        {
+            Debug.Log("armor");
             if (inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id == 1 || inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id > 2)
             {
                 inv.items[dropedItem.slotid] = new Item();
@@ -60,7 +69,10 @@ public class ItemSlot : MonoBehaviour, IDropHandler {
                 inv.items[dropedItem.slotid] = item.GetComponent<ItemData>().item;
                 inv.items[id] = dropedItem.item;
             }
-
+        }
+        else if (dropedItem.item.Equipable == 2)
+        {
+            Debug.Log("artifact");
             if (inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id == 2 || inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id > 2)
             {
                 inv.items[dropedItem.slotid] = new Item();
@@ -81,7 +93,10 @@ public class ItemSlot : MonoBehaviour, IDropHandler {
                 inv.items[dropedItem.slotid] = item.GetComponent<ItemData>().item;
                 inv.items[id] = dropedItem.item;
             }
-{ 
+        }
+        else if (dropedItem.item.Equipable > 2)
+        {
+            Debug.Log("item");
             if (inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id > 2)
             {
                 inv.items[dropedItem.slotid] = new Item();

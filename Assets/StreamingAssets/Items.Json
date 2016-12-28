@@ -8,7 +8,7 @@
             "regeneration": 20,
             "mpower": 300
         },
-        "equipable": 1,
+        "equipable": 0,
         "description": "testing the database",
         "stack": false,
         "slug": "test-item"
@@ -22,9 +22,24 @@
             "regeneration": 300,
             "mpower": 0
         },
-        "equipable": 0,
+        "equipable": 3,
         "description": "testing the databse 2",
         "stack": true,
         "slug": "test-item2"
+    },
+    {
+        "id": 2,
+        "name": "Wizardddd",
+        "value": 1000,
+        "stats": {
+            "power": 0,
+            "regeneration": 5,
+            "mpower": 500
+        },
+        "equipable": 1,
+        "description": "Wizards clothing from the best materials.",
+        "stack": false,
+        "slug": "wizard"
     }
+    
 ]

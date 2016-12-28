@@ -37,16 +37,16 @@ public class Tooltip : MonoBehaviour {
 
     public void ConstructDataString()
     {
-        if (item.Equipable == 0)
+        if (item.Equipable > 2)
         {
             Thing = "Item";
-        } else if (item.Equipable == 1)
+        } else if (item.Equipable == 0)
         {
             Thing = "Wapon";
-        } else if (item.Equipable == 2)
+        } else if (item.Equipable == 1)
         {
             Thing = "Armor";
-        } else if (item.Equipable == 3)
+        } else if (item.Equipable == 2)
         {
             Thing = "Artifact";
         }

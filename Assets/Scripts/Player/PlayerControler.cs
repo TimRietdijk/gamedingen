@@ -3,7 +3,8 @@ using System.Collections;
 using UnityEngine.UI;
 
 public class PlayerControler : MonoBehaviour {
-
+    public Inventory inv;
+    public ItemSlot ItemSlot;
     public GameObject Inventory;
     public GameObject Player;
     public float XP;
@@ -52,9 +53,9 @@ public class PlayerControler : MonoBehaviour {
         Level = Mathf.Round((FortitudoLevel + PernicitasLevel + IntelligentiaLevel + CharismaLevel + PraecantatioLevel) / 5f);
 
         //calculating the stats of the player
-        Power = BasePower; //+items and powerups
+        Power = BasePower + inv.items[0].Power + inv.items[1].Power + inv.items[2].Power;
         Defence = BaseDefence;
-        Mpower = BaseMpower;
+        Mpower = BaseMpower + inv.items[0].Mpower + inv.items[1].Mpower + inv.items[2].Mpower;
         Mdefence = BaseMdefence;
         Speed = BaseSpeed;
 

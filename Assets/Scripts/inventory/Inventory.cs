@@ -65,6 +65,7 @@ public class Inventory : MonoBehaviour
 
         AddItem(0);
         AddItem(1);
+        AddItem(2);
 
         inventoryPanel = GameObject.Find("Inventory Panel");
         equipeblePanel = inventoryPanel.transform.FindChild("equipeble panel").gameObject;
