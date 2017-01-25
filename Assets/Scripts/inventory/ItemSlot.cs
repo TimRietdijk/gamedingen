@@ -7,24 +7,31 @@ public class ItemSlot : MonoBehaviour, IDropHandler {
     public int id;
     private Inventory inv;
     public Item item;
-    public int theid;
+    public GameObject weapon;
+    public Sprite theweapon;
+
     public ItemData ItemData;
 
     void Start()
     {
         inv = GameObject.Find("Inventory").GetComponent<Inventory>();
     }
-    void Update()
+    /*void Update()
     {
-        theid = ItemData.slotid;
-    }
+        if (dropedItem.slotid == 0)
+        {
 
+            weapon.GetComponent<SpriteRenderer>().sprite = theweapon;
+            Debug.Log("Weapon equipped");
+        }
+    }
+    */
     public void OnDrop(PointerEventData eventData)
     {
         ItemData dropedItem = eventData.pointerDrag.GetComponent<ItemData>();
         if (dropedItem.item.Equipable == 0)
         {
-            Debug.Log("wapon");
+            Debug.Log("weapon");
             if (inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id == 0 || inv.items[id].ID == -1 && inv.slots[id].GetComponent<ItemSlot>().id > 2)
             {
                 inv.items[dropedItem.slotid] = new Item();
@@ -119,6 +126,7 @@ public class ItemSlot : MonoBehaviour, IDropHandler {
             }
 
         }
+
     }
 
 }

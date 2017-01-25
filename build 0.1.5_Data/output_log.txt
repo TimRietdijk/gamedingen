@@ -1,0 +1,1805 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Games\gamedingen\build 0.1.5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Games\gamedingen\build 0.1.5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Games\gamedingen\build 0.1.5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Games\gamedingen\build 0.1.5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\Games\gamedingen\build 0.1.5_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.217 seconds
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Games\gamedingen\build 0.1.5_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.820148 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1bac -> priority: 1 
+  Thread -> id: 2b08 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.814621 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 6375.
+Total: 1.261038 ms (FindLiveObjects: 0.254024 ms CreateObjectMapping: 0.081382 ms MarkObjects: 0.753383 ms  DeleteObjects: 0.171061 ms)
+
+Load scene ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.086322 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 6360.
+Total: 1.230223 ms (FindLiveObjects: 0.210568 ms CreateObjectMapping: 0.069135 ms MarkObjects: 0.936692 ms  DeleteObjects: 0.013432 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Statsloader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.29.208.212:9999}

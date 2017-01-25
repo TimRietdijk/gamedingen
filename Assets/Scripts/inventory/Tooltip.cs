@@ -1,17 +1,25 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.Networking;
 
 public class Tooltip : MonoBehaviour {
+    public PlayerControler PlayerControler;
     public Item item;
+    public GameObject Player;
+    public GameObject Character;
     private string data;
     private GameObject tooltip;
     private string Thing;
 
-    void Start()
+    public void settooltip(string IDs)
     {
-        tooltip = GameObject.Find("Tooltip");
+        Player = GameObject.Find(IDs);
+        Character = Player.transform.FindChild("Character" + IDs).gameObject;
+        PlayerControler = Character.GetComponent<PlayerControler>();
+        tooltip = PlayerControler.tooltip;
         tooltip.SetActive(false);
+
     }
 
     void Update()

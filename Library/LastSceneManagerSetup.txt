@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Maps/first map.unity
+- path: Assets/Scenes/Maps/Multiplayer/Multiplayer Arena.unity
   isLoaded: 1
   isActive: 1

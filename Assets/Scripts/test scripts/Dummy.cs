@@ -1,21 +1,30 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class Dummy : MonoBehaviour {
-    public float dummyhealth = 500;
+    public float starthealth = 500;
+    public float health;
     public float Defence = 0;
     private float DamageDelt;
+    public Image Healthbar;
 
+    void Start() {
+        health = starthealth;
+
+    }
+    
     void Damage(float Damage)
     {
+        Healthbar.fillAmount = health / starthealth;
         DamageDelt = Damage - Defence;
-        dummyhealth = dummyhealth - DamageDelt;
+        health = health - DamageDelt;
 
-        //Debug.Log(DamageDelt + " damage gedaan. nog " + dummyhealth + " health over.");
+        //Debug.Log(DamageDelt + " damage delt. nog " + dummyhealth + " health left.");
     }
 
     void Update() {
-        if (dummyhealth <= 0)
+        if (health <= 0)
         {
             Debug.Log(this.name + "was defeated.");
             Destroy(gameObject);
