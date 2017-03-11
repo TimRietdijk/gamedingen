@@ -18,7 +18,6 @@ public class Tooltip : MonoBehaviour {
         Character = Player.transform.FindChild("Character" + IDs).gameObject;
         PlayerControler = Character.GetComponent<PlayerControler>();
         tooltip = PlayerControler.tooltip;
-        tooltip.SetActive(false);
 
     }
 
@@ -32,6 +31,7 @@ public class Tooltip : MonoBehaviour {
 
     public void Activate(Item item)
     {
+        Debug.Log("active");
         this.item = item;
         ConstructDataString();
         tooltip.SetActive(true);
@@ -40,6 +40,7 @@ public class Tooltip : MonoBehaviour {
 
     public void Deactivate()
     {
+        Debug.Log("not active");
         tooltip.SetActive(false);
     }
 

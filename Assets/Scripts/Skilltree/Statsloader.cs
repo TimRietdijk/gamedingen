@@ -21,7 +21,6 @@ public class Statsloader : MonoBehaviour {
     {
         if (Player == null)
         {
-            Debug.Log(_IDs);
             Player = GameObject.Find(_IDs);
             Character = Player.transform.FindChild("Character" + _IDs).gameObject;
             PlayerControler = Character.GetComponent<PlayerControler>();

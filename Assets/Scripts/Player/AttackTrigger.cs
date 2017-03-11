@@ -14,9 +14,10 @@ public class AttackTrigger : MonoBehaviour {
     }
 
     void OnTriggerEnter2D(Collider2D coll) {
-        
+        Debug.Log("damage delt");
         if (coll.isTrigger != true && coll.CompareTag("Damageable"))
         {
+           
             coll.SendMessageUpwards("Damage", Damage);
             scrolltextmanager.Instance.CreateText(transform.position, PlayerControler.Power.ToString(), textcolor);
         }

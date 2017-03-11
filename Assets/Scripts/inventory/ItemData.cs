@@ -4,17 +4,28 @@ using UnityEngine.EventSystems;
 using System;
 
 public class ItemData : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerEnterHandler, IPointerExitHandler {
-    public Item item;
     public int amount;
     public int slotid;
 
-    private Inventory inv;
-    private Tooltip tooltip;
+    public GameObject Player;
+    public GameObject Character;
+    public GameObject Inventory;
+    public GameObject InvCanvas;
+    public GameObject Tooltip;
 
-    void Start()
+    public Item item;
+    public Inventory inv;
+    public Tooltip tooltip;
+
+    public void Start()
     {
-        inv = GameObject.Find("Inventory").GetComponent<Inventory>();
-        tooltip = inv.GetComponent<Tooltip>();
+        Player = this.transform.parent.parent.parent.parent.parent.gameObject;
+        Character = Player.transform.FindChild("Character" + Player.name).gameObject;
+        Inventory = Player.transform.FindChild("Inventory").gameObject;
+        InvCanvas = Player.transform.FindChild("Canvas").gameObject;
+        Tooltip = InvCanvas.transform.FindChild("Tooltip").gameObject;
+        inv = Inventory.GetComponent<Inventory>();
+        tooltip = Tooltip.GetComponent<Tooltip>();
     }
 
     public void OnBeginDrag(PointerEventData eventData)
@@ -44,11 +55,13 @@ public class ItemData : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
 
     public void OnPointerEnter(PointerEventData eventData)
     {
+        Debug.Log("entering");
         tooltip.Activate(item);
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
+        Debug.Log("leaving"); 
         tooltip.Deactivate();
     }
 }

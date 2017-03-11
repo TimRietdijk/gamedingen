@@ -5,16 +5,17 @@ using System;
 
 public class ItemSlot : MonoBehaviour, IDropHandler {
     public int id;
-    private Inventory inv;
-    public Item item;
-    public GameObject weapon;
-    public Sprite theweapon;
-
-    public ItemData ItemData;
+    public GameObject Player;
+    public GameObject Character;
+    public GameObject Inventory;
+    public Inventory inv;
 
     void Start()
     {
-        inv = GameObject.Find("Inventory").GetComponent<Inventory>();
+        Player = this.transform.parent.parent.parent.parent.gameObject;
+        Character = Player.transform.FindChild("Character" + Player.name).gameObject;
+        Inventory = Player.transform.FindChild("Inventory").gameObject;
+        inv = Inventory.GetComponent<Inventory>();
     }
     /*void Update()
     {

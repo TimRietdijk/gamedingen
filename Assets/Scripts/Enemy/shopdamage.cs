@@ -42,7 +42,7 @@ public class shopdamage : MonoBehaviour {
         else { 
             if (shopper.isTrigger != true && shopper.CompareTag("Character"))
             {
-                player.SendMessageUpwards("takeDamage", takeDamage);
+                Character.SendMessageUpwards("takeDamage", takeDamage);
                 scrolltextmanager.Instance.CreateText(transform.position, textdamage.ToString(), textcolor);
             }
         }
